@@ -22,7 +22,7 @@
 		},
 		{
 			"id": 4,
-			"username": "user1@mail.com",
+			"email": "user1@mail.com",
 			"password": "password1",
 			"name": "Rachel",
 			"gender": "Female"
