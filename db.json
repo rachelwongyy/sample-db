@@ -22,8 +22,8 @@
 		},
 		{
 			"id": 4,
-			"email": "user1@mail.com",
-			"password": "password1",
+			"email": "user4@mail.com",
+			"password": "password4",
 			"name": "Rachel",
 			"gender": "Female"
 		}
